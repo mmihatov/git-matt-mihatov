@@ -1,0 +1,13 @@
+2022-04-28T10:31:58.9133161 401 : [{"timestamp":"2022-04-28T15:31:58.888+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/holder/1001"}]
+2022-04-28T10:32:56.3029538 401 : [{"timestamp":"2022-04-28T15:32:56.181+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/holder/1001"}]
+2022-04-28T10:35:48.8304492 401 : [{"timestamp":"2022-04-28T15:35:48.794+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/holder/1001"}]
+2022-04-28T10:35:49.1414837 401 : [{"timestamp":"2022-04-28T15:35:49.139+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/holder/1001"}]
+2022-04-28T11:05:51.561251 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T11:07:54.3533143 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-04-28T11:09:46.6053864 401 : [{"timestamp":"2022-04-28T16:09:46.539+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/holder/1001"}]
+2022-04-28T17:06:47.7640273 404 : [{"timestamp":"2022-04-28T22:06:47.717+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers/list"}]
+2022-04-28T17:07:40.2339092 404 : [{"timestamp":"2022-04-28T22:07:40.196+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers/list"}]
+2022-04-28T17:09:25.1995316 404 : [{"timestamp":"2022-04-28T22:09:25.017+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers/list"}]
+2022-04-28T17:09:53.4264529 404 : [{"timestamp":"2022-04-28T22:09:53.420+00:00","status":404,"error":"Not Found","message":"No message available","path":"/transfers/list"}]
+2022-04-28T17:11:54.3389707 401 : [{"timestamp":"2022-04-28T22:11:54.277+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/transfer/list"}]
+2022-04-28T17:15:07.6284053 500 : [{"timestamp":"2022-04-28T22:15:07.599+00:00","status":500,"error":"Internal Server Error","message":"Invalid column name; nested exception is java.sql.SQLException: Invalid column name","path":"/transfer/list"}]

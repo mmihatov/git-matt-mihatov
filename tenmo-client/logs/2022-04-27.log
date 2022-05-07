@@ -1,0 +1,6 @@
+2022-04-27T16:21:10.1141409 404 : [{"timestamp":"2022-04-27T21:21:10.088+00:00","status":404,"error":"Not Found","message":"No message available","path":"/contacts/2001"}]
+2022-04-27T16:22:13.0448786 404 : [{"timestamp":"2022-04-27T21:22:13.012+00:00","status":404,"error":"Not Found","message":"No message available","path":"/contacts/2001"}]
+2022-04-27T16:23:47.5723747 404 : [{"timestamp":"2022-04-27T21:23:47.544+00:00","status":404,"error":"Not Found","message":"No message available","path":"/contacts/2001"}]
+2022-04-27T16:25:27.1353207 404 : [{"timestamp":"2022-04-27T21:25:27.125+00:00","status":404,"error":"Not Found","message":"No message available","path":"/contacts/2001"}]
+2022-04-27T16:25:38.3777919 404 : [{"timestamp":"2022-04-27T21:25:38.357+00:00","status":404,"error":"Not Found","message":"No message available","path":"/contacts/2001"}]
+2022-04-27T16:36:57.4586632 401 : [no body]
